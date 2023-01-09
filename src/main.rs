@@ -81,4 +81,3 @@ impl Player {
         p.ativo = false;
     }
 }
-
